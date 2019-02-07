@@ -1,0 +1,3 @@
+Here is a sample text file that I want to print the contents of to the terminal in my go exercise.
+
+Hopefully it works!
